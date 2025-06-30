@@ -1,0 +1,10 @@
+﻿@page "/About"
+<h3 style="text-decoration: underline">About @title </h3>
+<p class="mt-3">@DescrptionAbout</p>
+
+
+
+@code {
+    private MarkupString title = new MarkupString("<span style=\"color: orangered; letter-spacing: 2px;\">Fit</span>Nosh");
+    private string DescrptionAbout = "FitNosh is your go-to destination for nutritious, fitness-focused meals delivered right to your doorstep. Designed for gym-goers, athletes, and health-conscious individuals, our menu is crafted by experts to support muscle gain, fat loss, and overall wellness. With a variety of delicious, calorie-balanced options, FitNosh makes healthy eating easy and convenient. We offer fast, reliable delivery and accept secure online payments only. Fuel your goals with food that works as hard as you do—only at FitNosh.";
+}

@@ -1,0 +1,12 @@
+C:\FitNosh\FitNosh\FitNosh.Models\bin\Debug\net8.0\FitNosh.Models.deps.json
+C:\FitNosh\FitNosh\FitNosh.Models\bin\Debug\net8.0\FitNosh.Models.dll
+C:\FitNosh\FitNosh\FitNosh.Models\bin\Debug\net8.0\FitNosh.Models.pdb
+C:\FitNosh\FitNosh\FitNosh.Models\obj\Debug\net8.0\FitNosh.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\FitNosh\FitNosh\FitNosh.Models\obj\Debug\net8.0\FitNosh.Models.AssemblyInfoInputs.cache
+C:\FitNosh\FitNosh\FitNosh.Models\obj\Debug\net8.0\FitNosh.Models.AssemblyInfo.cs
+C:\FitNosh\FitNosh\FitNosh.Models\obj\Debug\net8.0\FitNosh.Models.csproj.CoreCompileInputs.cache
+C:\FitNosh\FitNosh\FitNosh.Models\obj\Debug\net8.0\FitNosh.Models.sourcelink.json
+C:\FitNosh\FitNosh\FitNosh.Models\obj\Debug\net8.0\FitNosh.Models.dll
+C:\FitNosh\FitNosh\FitNosh.Models\obj\Debug\net8.0\refint\FitNosh.Models.dll
+C:\FitNosh\FitNosh\FitNosh.Models\obj\Debug\net8.0\FitNosh.Models.pdb
+C:\FitNosh\FitNosh\FitNosh.Models\obj\Debug\net8.0\ref\FitNosh.Models.dll

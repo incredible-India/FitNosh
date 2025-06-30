@@ -1,0 +1,26 @@
+# Ignore build output
+FitNosh/bin/
+FitNosh/obj/
+
+# Ignore user-specific files
+FitNosh/.vs/
+FitNosh/.vscode/
+*.user
+*.suo
+
+# Ignore IDE/project folders
+.idea/
+
+# Ignore node_modules (if using npm)
+node_modules/
+
+# Blazor and .NET
+*.dll
+*.pdb
+*.cache
+*.log
+*.db
+*.runtimeconfig.*
+*.deps.json
+wwwroot/_framework/
+wwwroot/_content/

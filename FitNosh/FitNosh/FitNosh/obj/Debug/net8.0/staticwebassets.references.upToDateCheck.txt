@@ -1,0 +1,1 @@
+C:\FitNosh\FitNosh\FitNosh\FitNosh.Client\obj\Debug\net8.0\staticwebassets.build.json

@@ -1,0 +1,23 @@
+﻿<div class="card-container">
+    
+    @if (FoodCardList != null)
+    {
+        foreach (var item in FoodCardList)
+        {
+            <a class="card" href="#details-page">
+                <img src="@item.Uri" alt="@item.Name"/>
+                <div class="card-body">
+                    <div>
+                        <div class="card-title">@item.Name</div>
+                        <div class="card-price">@item.Price</div>
+                    </div>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+            </a>
+        }
+    }
+    else{
+    <p>Please wait...</p>
+    }
+
+</div>

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FitNosh\\FitNosh\\FitNosh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56554966-9617-4B13-AFEB-20C421BA040F}|..\\FitNosh.Data\\FitNosh.Data.csproj|c:\\fitnosh\\fitnosh\\fitnosh.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155EE791-1BAD-4F2D-B2C7-38632F111B88}|..\\FitNosh.Models\\FitNosh.Models.csproj|c:\\fitnosh\\fitnosh\\fitnosh.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADEB199-3017-458E-B1D0-067C17C215BF}|FitNosh\\FitNosh.csproj|c:\\fitnosh\\fitnosh\\fitnosh\\fitnosh\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ADEB199-3017-458E-B1D0-067C17C215BF}|FitNosh\\FitNosh.csproj|solutionrelative:fitnosh\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADEB199-3017-458E-B1D0-067C17C215BF}|FitNosh\\FitNosh.csproj|c:\\fitnosh\\fitnosh\\fitnosh\\fitnosh\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ADEB199-3017-458E-B1D0-067C17C215BF}|FitNosh\\FitNosh.csproj|solutionrelative:fitnosh\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADEB199-3017-458E-B1D0-067C17C215BF}|FitNosh\\FitNosh.csproj|c:\\fitnosh\\fitnosh\\fitnosh\\fitnosh\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ADEB199-3017-458E-B1D0-067C17C215BF}|FitNosh\\FitNosh.csproj|solutionrelative:fitnosh\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B457A4A-CB00-456A-ADE2-4E80C2E1C876}|FitNosh.Client\\FitNosh.Client.csproj|c:\\fitnosh\\fitnosh\\fitnosh\\fitnosh.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B457A4A-CB00-456A-ADE2-4E80C2E1C876}|FitNosh.Client\\FitNosh.Client.csproj|solutionrelative:fitnosh.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\FitNosh\\FitNosh\\FitNosh.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FitNosh.Data\\Class1.cs",
+              "ToolTip": "C:\\FitNosh\\FitNosh\\FitNosh.Data\\Class1.cs",
+              "RelativeToolTip": "..\\FitNosh.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:36:30.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\FitNosh\\FitNosh\\FitNosh.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FitNosh.Models\\Class1.cs",
+              "ToolTip": "C:\\FitNosh\\FitNosh\\FitNosh.Models\\Class1.cs",
+              "RelativeToolTip": "..\\FitNosh.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:35:42.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "FitNosh\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "FitNosh\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T15:32:52.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\Components\\App.razor",
+              "RelativeDocumentMoniker": "FitNosh\\Components\\App.razor",
+              "ToolTip": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\Components\\App.razor",
+              "RelativeToolTip": "FitNosh\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T15:32:32.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "FitNosh\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "FitNosh\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T15:32:26.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "FitNosh.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "FitNosh.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T15:31:40.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

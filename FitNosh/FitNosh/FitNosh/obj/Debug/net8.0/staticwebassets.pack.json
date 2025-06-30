@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FitNosh.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FitNosh.4ld0uv4kfk.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\FitNosh\\FitNosh\\FitNosh\\FitNosh\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FitNosh.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FitNosh.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FitNosh.props",
+      "PackagePath": "build\\FitNosh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FitNosh.props",
+      "PackagePath": "buildMultiTargeting\\FitNosh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FitNosh.props",
+      "PackagePath": "buildTransitive\\FitNosh.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
